@@ -1,4 +1,3 @@
-// src/components/features/TokenDetailModal.tsx
 import * as Dialog from '@radix-ui/react-dialog';
 import { X, Terminal } from 'lucide-react'; // Added Terminal icon for that "CMD" vibe
 import { useAppSelector } from '@/lib/store/hooks';
